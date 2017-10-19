@@ -1,0 +1,37 @@
+.background{
+  background-color: green;
+
+}
+.headerbox{
+  background-color: red;
+  width: 50px;
+  height: 20px;
+}
+
+.firstnavbox{
+  background-color: pink;
+  width: 20px;
+  height: 10px;
+  float: left;
+
+}
+
+.firstnavbox1{
+  background-color: orange;
+  width: 30px;
+  height: 10px;
+  float: left;
+
+}
+
+.contentbox{
+  background-color: blue;
+  width: 50px;
+  height: 60px;
+}
+
+.footerbox{
+  background-color: yellow;
+  width: 50px;
+  height: 20px;
+}
