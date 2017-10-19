@@ -1,0 +1,22 @@
+.background{
+  background-color: black;
+
+}
+.headerbox{
+  background-color: red;
+  width: 50px;
+  height: 20px;
+}
+
+.leftsidebox{
+  background-color: green;
+  width: 50px;
+  height: 40px;
+
+}
+
+.footerbox{
+  background-color: blue;
+  width: 50px;
+  height: 20px;
+}
