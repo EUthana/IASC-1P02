@@ -1,0 +1,33 @@
+.background{
+  background-color: black;
+
+}
+.headerbox{
+  background-color: red;
+  width: 400px;
+  height: 200px;
+}
+
+h1,h2
+{
+color:blue;
+}
+
+.leftsidebox{
+  background-color: pink;
+  width: 400px;
+  height: 100px;
+  float: left;
+
+}
+
+.footerbox{
+  background-color: yellow;
+  width: 500px;
+  height: 200px;
+}
+
+.body{
+  font-size: 45%;
+  font-style: normal;
+}
